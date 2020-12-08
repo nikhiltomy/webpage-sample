@@ -1,0 +1,28 @@
+.smdeviceh1{
+  font-size: 30px;
+}
+.smdeviceh2{
+  font-size: 30px;
+}
+.smdevicesupport{
+  font-size: 22px;
+}
+.smquote{
+    color: #21242c !important;
+    display: block !important;
+    font-family: 'Source Serif Pro', 'Noto Serif', serif !important;
+    font-size: 24px !important;
+    font-weight: 400 !important;
+    line-height: 32px !important;
+    letter-spacing: -0.1px !important;
+    text-indent: -0.35em !important;
+    text-align: left;
+}
+.smdevicebutton{
+  height: 38px;
+  width: 182px;
+}
+.smdevicebutton2{
+  height: 38px;
+  width: 182px;
+}
