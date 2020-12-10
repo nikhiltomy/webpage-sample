@@ -1,0 +1,57 @@
+body{
+   padding: 0;
+   margin: 0;
+}
+header{
+    box-sizing: border-box !important;
+    height: 62px !important;
+    left: 0px !important;
+    position: relative !important;
+    right: 0px !important;
+    z-index: 1060 !important;
+    border-top: 1px solid #D6D8DA !important;
+    border-bottom: 1px solid #D6D8DA !important;
+}
+.div_15{
+    max-width: 1200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 100% !important;
+    height: 100% !important;
+    clear: both
+}
+.mainlogo{
+    width: 12em;
+    margin-left: 5.1em;
+    margin-top: 0.25em;
+}
+._1c8t70d {
+    display: inline-block !important;
+    height: 100% !important;
+    white-space: nowrap !important;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+button{
+    margin: 0px !important;
+    background-color: transparent !important;
+    border: none !important;
+    cursor: pointer !important;
+    justify-content: center !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    align-items: center !important;
+    display: flex !important;
+    height: 100% !important;
+    font-family: inherit !important;
+    text-decoration: none !important;
+    color: #1865f2 !important;
+    font-size: 16px !important;
+    line-height: 20px !important;
+    font-weight: 700 !important;
+    padding: 0px !important;
+}
